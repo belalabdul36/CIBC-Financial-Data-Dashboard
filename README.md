@@ -38,6 +38,8 @@ This project contains two deliverables:
 
 - [Node.js](https://nodejs.org/) v18 or higher
 - npm or yarn
+- Alternatively, you can run and explore the project directly in your browser using CodeSandbox:
+https://codesandbox.io/
 
 ### Installation
 
@@ -164,12 +166,6 @@ This project is for **educational and portfolio purposes only**. It is not affil
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## Contributing
-
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
